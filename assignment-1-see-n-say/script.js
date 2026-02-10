@@ -29,7 +29,7 @@ let out3 = document.getElementById("out3");
 let out4 = document.getElementById("out4");
 let out5 = document.getElementById("out5");
 let storyOutput = document.getElementById("storyOutput");
-
+ 
 
 
 // BUTTON FUNCTIONS
@@ -64,5 +64,6 @@ i5 = (i5 + 1) % when.length;
 buildBtn.onclick = () => {
  let story = `${out1.textContent} ${out2.textContent} ${out3.textContent} ${out4.textContent} ${out5.textContent}.`;
 storyOutput.textContent = story;
+
 
   }
