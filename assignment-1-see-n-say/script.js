@@ -62,10 +62,11 @@ i5 = (i5 + 1) % when.length;
 
 
  // BUILD STORY
-buildBtn.onclick = () => {
- let story = `${out1.textContent} ${out2.textContent} ${out3.textContent} ${out4.textContent} ${out5.textContent}.`;
+buildBtn.onclick = () => { 
+ let story = `${out1.textContent}${out2.textContent} ${out3.textContent} ${out4.textContent} ${out5.textContent}.`;
 storyOutput.textContent = story;
 
 
   }
+
 
