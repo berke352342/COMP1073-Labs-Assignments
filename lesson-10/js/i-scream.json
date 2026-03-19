@@ -1,0 +1,32 @@
+{
+  "flavours": [
+    {
+      "name": "Chocolate Mint",
+      "calories": 220,
+      "type": "fresh",
+      "image": "images/chocolate-mint.svg",
+      "description": "A cool, refreshing swirl of dark chocolate and crisp mint leaves."
+    },
+    {
+      "name": "Strawberry Sprinkle",
+      "calories": 260,
+      "type": "sweet",
+      "image": "images/strawberry-sprinkle.svg",
+      "description": "Sun-ripened strawberries buried under a mountain of rainbow sprinkles."
+    },
+    {
+      "name": "Galaxy Ice",
+      "calories": 300,
+      "type": "sweet",
+      "image": "images/ice-cream-xtra1.svg",
+      "description": "A cosmic journey of blueberry, blackcurrant, and edible stardust."
+    },
+    {
+      "name": "Peach Fire",
+      "calories": 180,
+      "type": "spicy",
+      "image": "images/ice-cream-xtra2.svg",
+      "description": "Juicy peach ice cream with a sneaky chili-powder kick at the end."
+    }
+  ]
+}
