@@ -1,3 +1,5 @@
+// Lab 4 - JSON Ice Cream App | COMP1073
+
 fetch("js/i-scream.json")
   .then(res => res.json())
   .then(data => {
